@@ -1,0 +1,2 @@
+serviceClass: com.hackaton.app.client.GreetingService
+path: 5BE68E5416DFA98C9475E8D036C3F7B5.gwt.rpc
